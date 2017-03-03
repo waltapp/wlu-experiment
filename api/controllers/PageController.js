@@ -13,7 +13,7 @@ module.exports = {
    * `PageController.page1()`
    */
   page1: function (req, res) {
-    return res.view('test1');
+    return res.view('test');
   },
 
 
