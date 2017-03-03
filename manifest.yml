@@ -6,4 +6,3 @@ applications:
   name: wlu-experiment
   host: wlu-experiment
   disk_quota: 1024M
-  services:
