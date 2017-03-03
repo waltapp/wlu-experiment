@@ -76,10 +76,10 @@ module.exports.connections = {
   ***************************************************************************/
    somePostgresqlServer: {
      adapter: 'sails-postgresql',
-     host: 'echo-01.db.elephantsql.com',
-     user: 'ooobufuy', // optional
-     password: 'XRsHwO3ncGnBCO8Dn3Hc7KmrzZDA7Vh-', // optional
-     database: 'ooobufuy' //optional
+     host: 'babar.elephantsql.com',
+     user: 'kjahqqbf', // optional
+     password: 'W0wnFz7dugjzcPZvxArAobSX7e0CTCdq', // optional
+     database: 'kjahqqbf' //optional
    }
 
 
