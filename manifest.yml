@@ -7,4 +7,3 @@ applications:
   host: wlu-experiment
   disk_quota: 1024M
   services:
-  - wlu-experiment-cloudantNoSQLDB
