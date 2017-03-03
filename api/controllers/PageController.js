@@ -13,7 +13,7 @@ module.exports = {
    * `PageController.page1()`
    */
   page1: function (req, res) {
-    return res.view('homepage');
+    return res.view('test1');
   },
 
 
@@ -21,7 +21,7 @@ module.exports = {
    * `PageController.page2()`
    */
   page2: function (req, res) {
-    return res.view('test');
+    return res.view('test2');
   },
 
 
